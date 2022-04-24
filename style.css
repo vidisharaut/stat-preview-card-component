@@ -15,8 +15,8 @@ body {
   background-color: hsl(244, 38%, 16%);
   color: #fff;
   border-radius: 8px;
-  margin: 170px auto;
-  max-width: 1080px;
+  margin: 250px auto;
+  max-width: 1120px;
 }
 .col-1 {
   flex: 1;
@@ -50,7 +50,6 @@ p {
 
 img {
   display: block;
-  /* filter: opacity(0.6); */
   mix-blend-mode: darken;
   border-radius: 0 8px 8px 0;
   mix-blend-mode: darken;
